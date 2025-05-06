@@ -1,0 +1,2 @@
+spadesout/scaffolds.fasta	neighbors/putida.fasta	80.2176	901	2269
+spadesout/scaffolds.fasta	neighbors/syringae.fasta	78.8933	598	2269
