@@ -29,6 +29,9 @@ spadesout/scaffolds.fasta --rl neighbors.txt -o Pseudomonasneighbors.txt
 # Protein anotation with RAST
 Domain Bacteria, Genus Psuedomonas, Sp aeruginosa, Genetic Code 11, RAST annotation is RASTtk
 
+# Use PathogenFinder 0.4.1 to determine if the organism is pathogenic to humans. 
+Pseudomonas aeruginosa strain PaLo3 chromsome, complete genome is a human pathogen
+
 # Start a repository 
 git init
 
